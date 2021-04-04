@@ -1,0 +1,327 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	width: 1440px;
+}
+div {
+	display:inline-block;
+}
+header img {
+	margin-left: 80px;
+	margin-top: 26.12px;
+	float: left;
+}
+
+.menu {
+	list-style: none;
+	font-family: Montserrat;
+	margin-top: 63px;
+	margin-right: 50px;
+	float: right;
+}
+
+.main{
+	display: inline;
+	font-style: normal;
+	font-size: 16px;
+	font-weight: 600;
+	padding-left: 110px;
+	letter-spacing: 0.2px;
+}
+.home {
+	color: #FA4A0C;
+}
+.btn2 {
+	color: #252B42;
+}
+
+.firstblock {
+	width: 1440px;
+	height: 619px;
+	font-family: Montserrat;
+	color: white;
+	margin-top: 20px;
+	text-align: center;
+}
+.rec {
+	position: relative;
+	width: 1440px;
+}
+.app {
+	position: absolute;
+	top: 228px;
+	left: 660.5px;
+	font-size: 24px;
+	font-weight: 700;
+	letter-spacing: 0.1px;
+}
+
+.why {
+	position: absolute;
+	top: 281px;
+	left: 250.5px;
+	text-align: center;
+	font-size: 58px;
+	font-weight: 700;
+	letter-spacing: 0.2px;
+	width: 939px;
+}
+.txt {
+	position: absolute;
+	top: 468px;
+	left: 445px;
+	font-size: 24px;
+	font-weight: 500;
+	letter-spacing: 0.2px;
+}
+
+.store {
+	list-style: none;
+    font-family: Montserrat;
+	font-weight: 700;
+	font-size: 24px;
+	letter-spacing: 0.1px;
+}
+
+.play {
+	position: absolute;
+	background: #FA4A0C;
+	border-radius: 30px;
+	top: 560px;
+	left: 521px;
+	float: left;
+	padding: 24.5px 81px 24.5px;
+}
+
+.appstore {
+	position: absolute;
+	border: 1px solid #FFFFFF;
+	border-radius: 30px;
+	top: 560px;
+	left: 849.5px;
+	float: right;
+	padding: 23.5px 78.5px 23.5px;
+}
+.group {
+	position: absolute;
+	left: 400px;
+	top: 570px;
+	width: 548px;
+	height: 640px;
+}
+
+hr {
+	width: 884px;
+	height: 0px;
+	border: 3px solid #E4E4E4;
+	text-align: center;
+	margin-top: 542px;
+}
+
+.txt1 {
+	font-family: Poppins;
+	font-weight: 600;
+	font-size: 44px;
+	letter-spacing: 0.1px;
+	text-align: center;
+	opacity: 0.8;
+}
+.left {
+	width: 547px;
+	float: left;
+}
+.right {
+	width: 843px;
+	float: right;
+}
+
+.block1 {
+	width: 734px;
+	float: left;
+}
+.block2 {
+	width: 706px;
+	height: 525px;
+	float: right;
+}
+
+.left1 {
+	float: left;
+	width: 523px;
+}
+
+.right1 {
+	float: right;
+	width: 917px;
+}
+
+.img {
+	margin-left: 137px;
+}
+
+.h3 {
+	font-family: Montserrat;
+	font-weight: 700;
+	font-size: 24px;
+	color: #FA4A0C;
+	margin-top: 265px;
+	margin-left: 113px;
+}
+
+.h2 {
+	font-family: Montserrat;
+	font-weight: 700;
+	font-size: 40px;
+	color: #252B42;
+	margin-left: 113px;
+}
+.h4 {
+	font-family: Montserrat;
+	font-weight: 500;
+	font-size: 24px;
+	letter-spacing: 0.2px;
+	color: #737373;
+	margin-top: 55px;
+	margin-left: 113px;
+}
+
+.explore {
+	font-family: Montserrat;
+	font-weight: 700;
+	font-size: 24px;
+	color: #FA4A0C;
+	margin-left: 249px;
+}
+
+.hot {
+	font-family: Montserrat;
+	font-weight: 700;
+	font-size: 40px;
+	color: #252B42;
+	margin-left: 249px;
+}
+.it {
+	font-family: Montserrat;
+	font-weight: 500;
+	font-size: 24px;
+	letter-spacing: 0.2px;
+	color: #737373;
+	margin-left: 249px;
+}
+
+.check {
+	font-family: Montserrat;
+	font-weight: 700;
+	font-size: 24px;
+	color: #FA4A0C;
+	margin-left: 195px;
+	margin-top: 283px;
+}
+
+.delivered {
+	font-family: Montserrat;
+	font-weight: 700;
+	font-size: 40px;
+	color: #252B42;
+	margin-left: 195px;
+}
+.ease {
+	font-family: Montserrat;
+	font-weight: 500;
+	font-size: 24px;
+	letter-spacing: 0.2px;
+	color: #737373;
+	margin-left: 195px;
+}
+.h31 {
+	font-family: Montserrat;
+	font-weight: 700;
+	font-size: 24px;
+	color: #FA4A0C;
+	margin-left: 113px;
+	margin-top: 100px;
+}
+
+.img1 {
+	margin-left: 95px;
+}
+.download {
+	width: 1440px;
+	height: 509px;
+	background-image: url("img/Rectangle 47.jpg");
+	text-align: center;
+	font-family: Montserrat;
+	color: white;
+}
+.zagruzka {
+	font-weight: 700;
+	font-size: 40px;
+	letter-spacing: 0.2px;
+	margin-top: 140px;
+}
+.available {
+	font-weight: 500;
+	font-size: 24px;
+	letter-spacing: 0.2px;
+}
+.store1 {
+	list-style: none;
+    font-family: Montserrat;
+	font-weight: 700;
+	font-size: 16px;
+	letter-spacing: 0.2px;
+}
+.play1 {
+	background: #FA4A0C;
+	border-radius: 10px;
+	float: left;
+	padding: 22.5px 34px 22.5px;
+	margin-left: 512.5px;
+}
+
+.appstore1 {
+	border: 1px solid #FFFFFF;
+	border-radius: 10px;
+	float: right;
+	padding: 19.5px 47px 19.5px;
+	margin-right: 554.5px;
+}
+.logo {
+	margin-top: 54.1px;
+	margin-left: 176px;
+	width: 246px;
+	height: 102px;
+}
+
+.social {
+	list-style: none;
+	font-family: Montserrat;
+	margin-top: 89.86px;
+	margin-left: 128.84px;
+}
+.svyaz{
+	display: inline;
+	font-style: normal;
+	font-size: 16px;
+	font-weight: 600;
+	padding-left: 32.33px;
+	letter-spacing: 0.2px;
+}
+
+.p {
+	font-family: Roboto;
+	font-weight: 700;
+	font-size: 14px;
+	color: #5C5C5C;
+	margin-left: 274.25px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.white {
+	color: white;
+}
+@media (min-width: 1440px){
+}
